@@ -1,0 +1,17 @@
+TestCase:
+
+Tatacliq Testcase:
+==================
+1. Load the url as https://www.tatacliq.com/
+2. MouseHover on 'Brands'
+3. MouseHover on 'Watches & Accessories'
+4. Choose the first option from the 'Featured brands'.
+5. Select sortby: New Arrivals
+6. choose men from catagories filter.
+7. print all price of watches
+8. click on the first resulting watch.
+9. compare two price are similar
+10. click Add to Bag and get count from the cart icon.
+11. Click on the cart
+12. Take a snap of the resulting page. 
+13. All the opened windows one by one.
