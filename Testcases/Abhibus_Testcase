@@ -1,0 +1,19 @@
+Testcase:1 (AbhiBus)
+==========
+01) Launch Firefox / Chrome / Safari / Edge  
+02) Load https://www.abhibus.com/
+  Add  implicitlyWait -  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+03) Type "Chennai" in the FROM text box
+04) Click the first option from the pop up box
+05) Type "Bangalore" in the TO text box
+06) Click the first option from the pop up box
+07) Select tomorrow's date in the Date field and click on search button
+08) Print the name of the first resulting bus (use .getText())
+09) Choose SLEEPER in the left menu from Bus Type
+10) Print the first resulting bus seat count(Example:35 Seats Available)(use .getText())
+11) Click Show Seats
+12) Choose any one Available seat
+13) Select the first resulting checkbox from the Boarding Point and Dropping Point
+14) Print Seats Selected ,Total Fare
+15) Get the Title of the page(use .getTitle())
+16) Close the browser

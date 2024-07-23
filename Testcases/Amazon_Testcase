@@ -1,0 +1,14 @@
+Testcase:2 (Amazon)
+==========
+01) Launch Firefox / Chrome / Safari / Edge  
+02) Load https://www.amazon.in/
+  Add  implicitlyWait -  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+03) Click "Mobiles"
+04) Click "Smartphones & Basic Mobiles"
+05) Select "128GB" from checkbox
+06) Click "See more" link from Brands and select "POCO"
+07) Print the first filtered mobile details and click on it
+08) Print the title of the webpage
+09) Take a screenshot of the product
+10) Click the "Add To Cart" button
+11) Close the browser

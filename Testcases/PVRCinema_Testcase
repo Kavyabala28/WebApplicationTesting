@@ -1,0 +1,15 @@
+Testcase:3 (PVR Cinemas)
+================
+
+01)Launch the URL https://www.pvrcinemas.com/
+02)Choose your location as Chennai.
+03)Click on "Cinema" under Quick Book.
+04)Select the cinema: PVR AEROHUB Chennai.
+05)Select the date: Tomorrow's date.
+06)Select the movie: The first movie on the list.
+07)Select the timing: The first available timing.
+08)Click on "Book".
+09)Click on "Accept" for Terms and Conditions.
+10)Click on "First Available Seat".
+11)Print the Booking Summary.
+12)Print the Grand Total Value.
